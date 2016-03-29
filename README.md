@@ -15,4 +15,6 @@ Notes:
 Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout and LinearLayout .
 
 Walkthrough of all user stories:
+
+
 <a href="http://imgur.com/1LbdF9O"><img src="http://i.imgur.com/1LbdF9O.gif" title="source: imgur.com" /></a>
